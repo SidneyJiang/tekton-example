@@ -71,3 +71,5 @@ spec:
       params:
         - name: message-l
           value: Hello from the Manual Triggers EventListener!
+        - name: passedDown
+          value: Hey
